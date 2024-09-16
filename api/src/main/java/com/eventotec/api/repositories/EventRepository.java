@@ -1,5 +1,6 @@
 package com.eventotec.api.repositories;
 
+import com.eventotec.api.domain.event.Event;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
