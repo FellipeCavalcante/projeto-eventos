@@ -1,0 +1,402 @@
+2024-09-17 19:05:35.638 - DBeaver 24.1.0.202406021658 is starting
+2024-09-17 19:05:35.638 - OS: Windows 11 10.0 (amd64)
+2024-09-17 19:05:35.639 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-09-17 19:05:35.639 - Install path: 'C:\Program Files\DBeaver'
+2024-09-17 19:05:35.639 - Instance path: 'file:/C:/Users/felli/Documents/projeto-de-eventos/projeto-eventos/'
+2024-09-17 19:05:35.642 - Memory available 64Mb/1024Mb
+2024-09-17 19:05:35.651 - Create display
+2024-09-17 19:05:35.800 - Initialize desktop platform...
+2024-09-17 19:05:35.989 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.400.v20240426-1040]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.200.v20240426-1040]
+> Start Core de Suporte para Equipe [org.eclipse.team.core 3.10.400.v20240413-1529]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.132.202406021658]
+2024-09-17 19:05:36.320 - Initialize base platform...
+2024-09-17 19:05:36.358 - Platform initialized (558ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.132.202406021658]
+2024-09-17 19:05:36.428 - Starting instance server at http://localhost:13846
+2024-09-17 19:05:36.452 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.400.v20240425-0840]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.400.v20240413-1529]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.300.v20231201-1637]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.400.v20240424-0956]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.400.v20240321-1245]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.400.v20240424-0444]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.37.0.v20231208-1346]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.400.v20240416-0658]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.400.v20240418-1547]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+2024-09-17 19:05:46.081 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.122.202406021658]
+2024-09-17 19:05:46.252 - Total database drivers: 118 (118)
+> Start Core do Sistema de Ajuda [org.eclipse.help 3.10.400.v20240415-0528]
+2024-09-17 19:05:46.360 - Create actions
+2024-09-17 19:05:46.366 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-09-17 19:05:46.367 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-09-17 19:05:46.367 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-09-17 19:05:46.368 - Create workbench actions
+2024-09-17 19:05:46.823 - Initialize workbench window
+2024-09-17 19:05:46.828 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.132.202406021658]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.400.v20240413-1529]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.132.202406021658]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.169.202406021658]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.138.202406021658]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.16.0.202405011806]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.18.0.202405011806]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.92.202406021658]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.92.202406021658]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.129.202406021658]
+> Start DBeaver Dashboards Model [org.jkiss.dbeaver.model.dashboard 1.0.5.202406021658]
+> Start Editor de Texto Padrão [org.eclipse.ui.editors 3.17.300.v20240416-0658]
+> Start Workbench [org.eclipse.ui.workbench.texteditor 3.17.400.v20240424-0941]
+2024-09-17 19:05:50.876 - Open [https://dbeaver.io/product/version.xml]
+2024-09-17 19:06:57.390 - Downloading installation file to C:\Users\felli\AppData\Local\Temp\dbeaver-ce-latest-x86_64-setup.exe5049131729722877852\dbeaver-ce-latest-x86_64-setup.exe
+2024-09-17 19:06:57.392 - Open [https://dbeaver.io/files/dbeaver-ce-latest-x86_64-setup.exe]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.123.202406021658]
+2024-09-17 19:07:14.425 - Connect with 'postgres' (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.25.202406021658]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.205.202406021658]
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.156.202406021658]
+2024-09-17 19:07:14.773 - Execution context opened (postgres; Main <postgres>; 0)
+2024-09-17 19:07:14.773 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2024-09-17 19:07:14.986 - Execution context opened (postgres; Metadata <postgres>; 1)
+2024-09-17 19:07:14.986 - Initiate connection to PostgreSQL database [postgres@localhost] for Metadata <postgres>
+2024-09-17 19:07:15.215 - Connected (postgres-jdbc-191fc5c9b01-6e2b808d841742be, PostgreSQL JDBC Driver [42.7.2])
+> Start Data Transfer UI [org.jkiss.dbeaver.data.transfer.ui 1.0.116.202406021658]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.108.202406021658]
+2024-09-17 19:07:20.605 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-09-17 19:07:46.513 - Execution context closed (postgres, 0)
+2024-09-17 19:07:46.526 - Execution context closed (postgres, 1)
+2024-09-17 19:07:46.527 - Disconnected (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-17 19:07:46.595 - Connect with 'postgres' (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-17 19:07:46.595 - Execution context opened (postgres; Main <eventotec>; 2)
+2024-09-17 19:07:46.596 - Initiate connection to PostgreSQL database [eventotec@localhost] for Main <eventotec>
+2024-09-17 19:07:46.655 - Execution context opened (postgres; Metadata <eventotec>; 3)
+2024-09-17 19:07:46.656 - Initiate connection to PostgreSQL database [eventotec@localhost] for Metadata <eventotec>
+2024-09-17 19:07:46.741 - Connected (postgres-jdbc-191fc5c9b01-6e2b808d841742be, PostgreSQL JDBC Driver [42.7.2])
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.116.202406021658]
+2024-09-17 19:09:15.806 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-09-17 19:09:28.755 - Execution context closed (postgres, 2)
+2024-09-17 19:09:28.766 - Execution context closed (postgres, 3)
+2024-09-17 19:09:28.766 - Disconnected (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-17 19:09:28.833 - Connect with 'postgres' (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-17 19:09:28.889 - Execution context opened (postgres; Main <eventotec>; 4)
+2024-09-17 19:09:28.889 - Initiate connection to PostgreSQL database [eventotec@localhost] for Main <eventotec>
+2024-09-17 19:09:28.949 - Execution context opened (postgres; Metadata <eventotec>; 5)
+2024-09-17 19:09:28.949 - Initiate connection to PostgreSQL database [eventotec@localhost] for Metadata <eventotec>
+2024-09-17 19:09:29.029 - Connected (postgres-jdbc-191fc5c9b01-6e2b808d841742be, PostgreSQL JDBC Driver [42.7.2])
+2024-09-17 19:10:04.108 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-09-17 19:10:21.462 - Execution context closed (postgres, 4)
+2024-09-17 19:10:21.473 - Execution context closed (postgres, 5)
+2024-09-17 19:10:21.473 - Disconnected (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-17 19:10:21.559 - Connect with 'postgres' (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-17 19:10:21.560 - Execution context opened (postgres; Main <eventotec>; 6)
+2024-09-17 19:10:21.560 - Initiate connection to PostgreSQL database [eventotec@localhost] for Main <eventotec>
+2024-09-17 19:10:21.620 - Execution context opened (postgres; Metadata <eventotec>; 7)
+2024-09-17 19:10:21.620 - Initiate connection to PostgreSQL database [eventotec@localhost] for Metadata <eventotec>
+2024-09-17 19:10:21.702 - Connected (postgres-jdbc-191fc5c9b01-6e2b808d841742be, PostgreSQL JDBC Driver [42.7.2])
+2024-09-17 19:11:38.444 - Execution context closed (postgres, 6)
+2024-09-17 19:11:38.459 - Execution context closed (postgres, 7)
+2024-09-17 19:11:38.459 - Disconnected (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-17 19:11:57.671 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-09-17 19:12:36.742 - Connect with 'eventotec' (postgres-jdbc-192020ad607-431ad491e6d6003f)
+2024-09-17 19:12:36.744 - Execution context opened (eventotec; Main <eventotec>; 8)
+2024-09-17 19:12:36.744 - Initiate connection to PostgreSQL database [eventotec@localhost] for Main <eventotec>
+2024-09-17 19:12:36.813 - Execution context opened (eventotec; Metadata <eventotec>; 9)
+2024-09-17 19:12:36.813 - Initiate connection to PostgreSQL database [eventotec@localhost] for Metadata <eventotec>
+2024-09-17 19:12:36.888 - Connected (postgres-jdbc-192020ad607-431ad491e6d6003f, PostgreSQL JDBC Driver [42.7.2])
+2024-09-17 19:16:04.698 - Execution context closed (eventotec, 8)
+2024-09-17 19:16:04.713 - Execution context closed (eventotec, 9)
+2024-09-17 19:16:04.713 - Disconnected (postgres-jdbc-192020ad607-431ad491e6d6003f)
+2024-09-17 19:33:04.216 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-09-17 19:33:19.879 - Connect with 'eventostec' (postgres-jdbc-192021e296d-6181230adf17e5fb)
+2024-09-17 19:33:19.891 - Execution context opened (eventostec; Main <eventostec>; 10)
+2024-09-17 19:33:19.891 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:33:19.987 - Execution context opened (eventostec; Metadata <eventostec>; 11)
+2024-09-17 19:33:19.987 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 19:33:20.074 - Connected (postgres-jdbc-192021e296d-6181230adf17e5fb, PostgreSQL JDBC Driver [42.7.2])
+2024-09-17 19:45:42.768 - Execution context closed (eventostec, 10)
+2024-09-17 19:45:42.791 - Execution context closed (eventostec, 11)
+2024-09-17 19:45:42.794 - Execution context opened (eventostec; Main <eventostec>; 12)
+2024-09-17 19:45:42.794 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:45:42.916 - Execution context opened (eventostec; Metadata <eventostec>; 13)
+2024-09-17 19:45:42.916 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 19:45:43.014 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.015 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.015 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.016 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.018 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.018 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.018 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.019 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.020 - Error testing property connected: No databases found on the server
+2024-09-17 19:45:43.020 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.729 - Execution context closed (eventostec, 12)
+2024-09-17 19:46:53.742 - Execution context closed (eventostec, 13)
+2024-09-17 19:46:53.742 - Execution context opened (eventostec; Main <eventostec>; 14)
+2024-09-17 19:46:53.743 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:46:53.814 - Execution context opened (eventostec; Metadata <eventostec>; 15)
+2024-09-17 19:46:53.814 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 19:46:53.927 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.928 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.929 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.929 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.933 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.934 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.935 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.935 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.938 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:53.938 - Error testing property connected: No databases found on the server
+2024-09-17 19:46:55.063 - Execution context closed (eventostec, 14)
+2024-09-17 19:46:55.075 - Execution context closed (eventostec, 15)
+2024-09-17 19:46:55.075 - Execution context opened (eventostec; Main <eventostec>; 16)
+2024-09-17 19:46:55.075 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:46:55.141 - Execution context opened (eventostec; Metadata <eventostec>; 17)
+2024-09-17 19:46:55.141 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+Warning: NLS unused message: FindReplace_title in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Find_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Replace_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Direction in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ForwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_BackwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Scope in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_GlobalRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectedRangeRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Options in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CaseCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WrapCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WholeWordCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_RegExCheckbox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_FindNextButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceFindButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceSelectionButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CloseButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacements_label in: org.eclipse.ui.texteditor.EditorMessages
+2024-09-17 19:47:35.776 - Execution context closed (eventostec, 16)
+2024-09-17 19:47:35.795 - Execution context closed (eventostec, 17)
+2024-09-17 19:47:35.796 - Execution context opened (eventostec; Main <eventostec>; 18)
+2024-09-17 19:47:35.796 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:47:35.796 - Error testing property synchronizable: No databases found on the server
+2024-09-17 19:47:35.796 - Error testing property synchronizable: No databases found on the server
+2024-09-17 19:47:35.851 - Execution context opened (eventostec; Metadata <eventostec>; 19)
+2024-09-17 19:47:35.851 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 19:47:35.899 - Error testing property connected: No databases found on the server
+2024-09-17 19:47:35.899 - Error testing property connected: No databases found on the server
+2024-09-17 19:47:35.899 - Error testing property connected: No databases found on the server
+2024-09-17 19:47:35.900 - Error testing property connected: No databases found on the server
+2024-09-17 19:47:35.901 - Error testing property connected: No databases found on the server
+2024-09-17 19:47:35.901 - Error testing property connected: No databases found on the server
+2024-09-17 19:47:35.901 - Error testing property connected: No databases found on the server
+2024-09-17 19:47:35.902 - Error testing property connected: No databases found on the server
+2024-09-17 19:47:35.903 - Error testing property connected: No databases found on the server
+2024-09-17 19:54:49.914 - Execution context closed (eventostec, 18)
+2024-09-17 19:54:49.933 - Execution context closed (eventostec, 19)
+2024-09-17 19:54:49.934 - Execution context opened (eventostec; Main <eventostec>; 20)
+2024-09-17 19:54:49.934 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:54:50.149 - Execution context opened (eventostec; Metadata <eventostec>; 21)
+2024-09-17 19:54:50.149 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 19:55:08.860 - Execution context closed (eventostec, 20)
+2024-09-17 19:55:08.871 - Execution context closed (eventostec, 21)
+2024-09-17 19:55:08.871 - Execution context opened (eventostec; Main <eventostec>; 22)
+2024-09-17 19:55:08.871 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:55:08.925 - Execution context opened (eventostec; Metadata <eventostec>; 23)
+2024-09-17 19:55:08.926 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 19:55:09.031 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.032 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.032 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.033 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.037 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.038 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.038 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.039 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.043 - Error testing property connected: No databases found on the server
+2024-09-17 19:55:09.043 - Error testing property connected: No databases found on the server
+2024-09-17 19:59:03.997 - Execution context closed (eventostec, 22)
+2024-09-17 19:59:04.011 - Execution context closed (eventostec, 23)
+2024-09-17 19:59:04.011 - Execution context opened (eventostec; Main <eventostec>; 24)
+2024-09-17 19:59:04.012 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:59:04.079 - Execution context opened (eventostec; Metadata <eventostec>; 25)
+2024-09-17 19:59:04.079 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 19:59:04.126 - Error testing property connected: No databases found on the server
+2024-09-17 19:59:04.126 - Error testing property connected: No databases found on the server
+2024-09-17 19:59:04.126 - Error testing property connected: No databases found on the server
+2024-09-17 19:59:04.126 - Error testing property connected: No databases found on the server
+2024-09-17 19:59:04.127 - Error testing property connected: No databases found on the server
+2024-09-17 19:59:04.128 - Error testing property connected: No databases found on the server
+2024-09-17 19:59:21.373 - Execution context closed (eventostec, 24)
+2024-09-17 19:59:21.384 - Execution context closed (eventostec, 25)
+2024-09-17 19:59:21.384 - Disconnected (postgres-jdbc-192021e296d-6181230adf17e5fb)
+2024-09-17 19:59:24.180 - Connect with 'eventostec' (postgres-jdbc-192021e296d-6181230adf17e5fb)
+2024-09-17 19:59:24.182 - Execution context opened (eventostec; Main <eventostec>; 26)
+2024-09-17 19:59:24.182 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 19:59:24.351 - Execution context opened (eventostec; Metadata <eventostec>; 27)
+2024-09-17 19:59:24.351 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 19:59:24.438 - Connected (postgres-jdbc-192021e296d-6181230adf17e5fb, PostgreSQL JDBC Driver [42.7.2])
+2024-09-17 20:04:16.055 - Execution context closed (eventostec, 26)
+2024-09-17 20:04:16.069 - Execution context closed (eventostec, 27)
+2024-09-17 20:04:16.069 - Execution context opened (eventostec; Main <eventostec>; 28)
+2024-09-17 20:04:16.069 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 20:04:16.140 - Execution context opened (eventostec; Metadata <eventostec>; 29)
+2024-09-17 20:04:16.140 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 20:04:16.184 - Error testing property connected: No databases found on the server
+2024-09-17 20:04:16.184 - Error testing property connected: No databases found on the server
+2024-09-17 20:04:16.184 - Error testing property connected: No databases found on the server
+2024-09-17 20:04:16.185 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:16.854 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 20:51:16.990 - Execution context opened (eventostec; Main <eventostec>; 30)
+2024-09-17 20:51:16.990 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 20:51:17.152 - Execution context opened (eventostec; Metadata <eventostec>; 31)
+2024-09-17 20:51:17.152 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 20:51:23.469 - Execution context closed (eventostec, 28)
+2024-09-17 20:51:23.480 - Execution context closed (eventostec, 29)
+2024-09-17 20:51:23.480 - Execution context opened (eventostec; Main <eventostec>; 32)
+2024-09-17 20:51:23.480 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 20:51:23.564 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.565 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.565 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.566 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.573 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.573 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.573 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.573 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.575 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.575 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.645 - Execution context opened (eventostec; Metadata <eventostec>; 33)
+2024-09-17 20:51:23.645 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 20:51:23.751 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.752 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.752 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.752 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.753 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.753 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.753 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.753 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.753 - Error testing property connected: No databases found on the server
+2024-09-17 20:51:23.753 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.733 - Execution context closed (eventostec, 32)
+2024-09-17 21:47:20.760 - Execution context closed (eventostec, 33)
+2024-09-17 21:47:20.762 - Execution context opened (eventostec; Main <eventostec>; 34)
+2024-09-17 21:47:20.762 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 21:47:20.772 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.772 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.772 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.772 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.775 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.775 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.776 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.776 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.776 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.776 - Error testing property connected: No databases found on the server
+2024-09-17 21:47:20.886 - Execution context opened (eventostec; Metadata <eventostec>; 35)
+2024-09-17 21:47:20.886 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-17 21:53:56.311 - Execution context closed (eventostec, 34)
+2024-09-17 21:53:56.323 - Execution context closed (eventostec, 35)
+2024-09-17 21:53:56.323 - Execution context opened (eventostec; Main <eventostec>; 36)
+2024-09-17 21:53:56.323 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-17 21:53:56.388 - Execution context opened (eventostec; Metadata <eventostec>; 37)
+2024-09-17 21:53:56.389 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-18 00:09:33.975 - Execution context closed (eventostec, 36)
+2024-09-18 00:09:34.048 - Execution context closed (eventostec, 37)
+2024-09-18 00:09:34.050 - Execution context opened (eventostec; Main <eventostec>; 38)
+2024-09-18 00:09:34.051 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-18 00:09:34.202 - Execution context opened (eventostec; Metadata <eventostec>; 39)
+2024-09-18 00:09:34.203 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-18 00:09:34.205 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.206 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.206 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.206 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.210 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.211 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.211 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.211 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.212 - Error testing property connected: No databases found on the server
+2024-09-18 00:09:34.213 - Error testing property connected: No databases found on the server
+2024-09-18 03:58:51.240 - System suspend detected! Reinitialize all remote connections.
+2024-09-18 11:39:43.023 - System suspend detected! Reinitialize all remote connections.
+2024-09-18 11:39:43.555 - Execution context closed (eventostec, 38)
+2024-09-18 11:39:43.716 - Execution context closed (eventostec, 39)
+2024-09-18 11:39:43.733 - Disconnected (postgres-jdbc-192021e296d-6181230adf17e5fb)
+2024-09-18 12:42:37.073 - System suspend detected! Reinitialize all remote connections.
+2024-09-18 13:31:41.168 - System suspend detected! Reinitialize all remote connections.
+2024-09-18 15:20:13.430 - Can't connect - connect/disconnect is in progress
+2024-09-18 15:20:13.716 - Connect with 'eventostec' (postgres-jdbc-192021e296d-6181230adf17e5fb)
+2024-09-18 15:20:13.736 - Execution context opened (eventostec; Main <eventostec>; 40)
+2024-09-18 15:20:13.736 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-18 15:20:13.937 - Execution context opened (eventostec; Metadata <eventostec>; 41)
+2024-09-18 15:20:13.937 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-18 15:20:14.080 - Connected (postgres-jdbc-192021e296d-6181230adf17e5fb, PostgreSQL JDBC Driver [42.7.2])
+2024-09-18 15:25:52.129 - Execution context closed (eventostec, 40)
+2024-09-18 15:25:52.150 - Execution context closed (eventostec, 41)
+2024-09-18 15:25:52.154 - Execution context opened (eventostec; Main <eventostec>; 42)
+2024-09-18 15:25:52.155 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-18 15:25:52.176 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.178 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.178 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.178 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.187 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.188 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.188 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.188 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.189 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.191 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.300 - Execution context opened (eventostec; Metadata <eventostec>; 43)
+2024-09-18 15:25:52.301 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-18 15:25:52.404 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.404 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.404 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.404 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.404 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.405 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.405 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.405 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.405 - Error testing property connected: No databases found on the server
+2024-09-18 15:25:52.405 - Error testing property connected: No databases found on the server
+> Start Núcleo de Suporte a Comparação [org.eclipse.compare.core 3.8.500.v20240415-1311]
+2024-09-18 16:50:21.824 - Execution context closed (eventostec, 42)
+2024-09-18 16:50:21.863 - Execution context closed (eventostec, 43)
+2024-09-18 16:50:21.867 - Execution context opened (eventostec; Main <eventostec>; 44)
+2024-09-18 16:50:21.868 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.869 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-18 16:50:21.869 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.870 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.870 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.877 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.879 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.879 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.879 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.880 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:21.881 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.059 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.059 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.059 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.059 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.059 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.061 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.061 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.061 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.061 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.061 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:22.092 - Execution context opened (eventostec; Metadata <eventostec>; 45)
+2024-09-18 16:50:22.093 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-18 16:50:30.946 - Execution context closed (eventostec, 44)
+2024-09-18 16:50:30.959 - Execution context closed (eventostec, 45)
+2024-09-18 16:50:30.959 - Execution context opened (eventostec; Main <eventostec>; 46)
+2024-09-18 16:50:30.959 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-18 16:50:31.021 - Execution context opened (eventostec; Metadata <eventostec>; 47)
+2024-09-18 16:50:31.021 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>
+2024-09-18 16:50:31.066 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:31.066 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:31.067 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:31.067 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:31.069 - Error testing property connected: No databases found on the server
+2024-09-18 16:50:47.869 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-18 16:50:47.916 - Execution context opened (eventostec; Main <eventostec>; 48)
+2024-09-18 16:50:47.916 - Initiate connection to PostgreSQL database [eventostec@localhost] for Main <eventostec>
+2024-09-18 16:50:47.961 - Execution context opened (eventostec; Metadata <eventostec>; 49)
+2024-09-18 16:50:47.961 - Initiate connection to PostgreSQL database [eventostec@localhost] for Metadata <eventostec>

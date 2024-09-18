@@ -1,0 +1,336 @@
+2024-09-16 16:43:17.523 - DBeaver 24.1.0.202406021658 is starting
+2024-09-16 16:43:17.525 - OS: Windows 11 10.0 (amd64)
+2024-09-16 16:43:17.525 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2024-09-16 16:43:17.525 - Install path: 'C:\Program Files\DBeaver'
+2024-09-16 16:43:17.525 - Instance path: 'file:/C:/Users/felli/Documents/projeto-de-eventos/projeto-eventos/'
+2024-09-16 16:43:17.528 - Memory available 64Mb/1024Mb
+2024-09-16 16:43:17.537 - Create display
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.22.200.v20240424-0956]
+2024-09-16 16:43:17.657 - Initialize desktop platform...
+2024-09-16 16:43:17.792 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.10.400.v20240426-1040]
+> Start Core Resource Management [org.eclipse.core.resources 3.20.200.v20240426-1040]
+> Start Core de Suporte para Equipe [org.eclipse.team.core 3.10.400.v20240413-1529]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.132.202406021658]
+2024-09-16 16:43:18.566 - 
+2024-09-16 16:43:18.566 - 	Refreshing workspace.
+2024-09-16 16:43:18.568 - Refreshing workspace contents
+2024-09-16 16:43:18.849 - Initialize base platform...
+2024-09-16 16:43:18.870 - Platform initialized (1213ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.132.202406021658]
+2024-09-16 16:43:18.919 - Starting instance server at http://localhost:2428
+2024-09-16 16:43:18.926 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.400.v20240425-0840]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.4.400.v20240413-1529]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.300.v20231201-1637]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.400.v20240424-0956]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.400.v20240321-1245]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.400.v20240424-0444]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.37.0.v20231208-1346]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.400.v20240424-0956]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.400.v20240416-0658]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.400.v20240418-1547]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.400.v20240321-1245]
+2024-09-16 16:43:20.292 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.122.202406021658]
+2024-09-16 16:43:20.431 - Total database drivers: 118 (118)
+> Start Core do Sistema de Ajuda [org.eclipse.help 3.10.400.v20240415-0528]
+2024-09-16 16:43:20.542 - Create actions
+2024-09-16 16:43:20.553 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2024-09-16 16:43:20.554 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2024-09-16 16:43:20.554 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2024-09-16 16:43:20.555 - Create workbench actions
+2024-09-16 16:43:21.714 - Initialize workbench window
+2024-09-16 16:43:21.720 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.132.202406021658]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.400.v20240413-1529]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.132.202406021658]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.16.0.202405011806]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.18.0.202405011806]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.92.202406021658]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.92.202406021658]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.129.202406021658]
+> Start DBeaver Dashboards Model [org.jkiss.dbeaver.model.dashboard 1.0.5.202406021658]
+> Start Editor de Texto Padrão [org.eclipse.ui.editors 3.17.300.v20240416-0658]
+> Start Workbench [org.eclipse.ui.workbench.texteditor 3.17.400.v20240424-0941]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.169.202406021658]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.138.202406021658]
+2024-09-16 16:43:25.042 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.123.202406021658]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.108.202406021658]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.25.202406021658]
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.205.202406021658]
+2024-09-16 16:43:33.272 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-09-16 16:43:42.753 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.pom]
+2024-09-16 16:43:43.373 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom]
+2024-09-16 16:43:43.523 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.pom]
+2024-09-16 16:43:43.671 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-parent/1.9.1/waffle-parent-1.9.1.pom]
+2024-09-16 16:43:43.985 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom]
+2024-09-16 16:43:44.129 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.pom]
+2024-09-16 16:43:44.274 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.pom]
+2024-09-16 16:43:44.418 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.25/slf4j-parent-1.7.25.pom]
+2024-09-16 16:43:44.589 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.pom]
+2024-09-16 16:43:44.738 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.pom]
+2024-09-16 16:43:46.858 - Open [https://repo1.maven.org/maven2/org/postgresql/postgresql/42.7.2/postgresql-42.7.2.jar]
+2024-09-16 16:43:47.444 - Open [https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar]
+2024-09-16 16:43:47.604 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.pom]
+2024-09-16 16:43:47.748 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-java-aggregator/2.5.0/postgis-java-aggregator-2.5.0.pom]
+2024-09-16 16:43:47.895 - Open [https://repo1.maven.org/maven2/org/testcontainers/testcontainers-bom/1.13.0/testcontainers-bom-1.13.0.pom]
+2024-09-16 16:43:48.040 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-jdbc/2.5.0/postgis-jdbc-2.5.0.jar]
+2024-09-16 16:43:48.177 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.pom]
+2024-09-16 16:43:48.322 - Open [https://repo1.maven.org/maven2/net/postgis/postgis-geometry/2.5.0/postgis-geometry-2.5.0.jar]
+2024-09-16 16:43:48.459 - Open [https://repo1.maven.org/maven2/com/github/waffle/waffle-jna/1.9.1/waffle-jna-1.9.1.jar]
+2024-09-16 16:43:48.598 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar]
+2024-09-16 16:43:48.882 - Open [https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar]
+2024-09-16 16:43:49.175 - Open [https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar]
+2024-09-16 16:43:49.310 - Open [https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar]
+2024-09-16 16:43:49.446 - Open [https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.6.2/caffeine-2.6.2.jar]
+2024-09-16 16:43:49.599 - Open [https://raw.githubusercontent.com/pgjdbc/pgjdbc/master/LICENSE]
+2024-09-16 16:43:49.840 - Connect with 'postgres' (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.156.202406021658]
+2024-09-16 16:43:49.978 - Execution context opened (postgres; Main <postgres>; 0)
+2024-09-16 16:43:49.982 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2024-09-16 16:43:50.026 - Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:265)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:554)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:106)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:102)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:233)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:120)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:274)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:169)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:94)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:104)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:115)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1381)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1245)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:1035)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:78)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:109)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:87)
+	at org.jkiss.dbeaver.model.DBUtils.initDataSource(DBUtils.java:2505)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:227)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:91)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:94)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:78)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:397)
+	at org.postgresql.Driver.connect(Driver.java:305)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:83)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:243)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:98)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:136)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:262)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.access$100(Driver.java:63)
+	at org.postgresql.Driver$ConnectThread.run(Driver.java:355)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2024-09-16 16:43:52.672 - Connect with 'postgres' (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-16 16:43:52.675 - Execution context opened (postgres; Main <postgres>; 1)
+2024-09-16 16:43:52.676 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2024-09-16 16:43:52.690 - Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:265)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:554)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:106)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:102)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:233)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:120)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:274)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:169)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:94)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:104)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:115)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1381)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1245)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:1035)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:78)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:109)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:87)
+	at org.jkiss.dbeaver.model.DBUtils.initDataSource(DBUtils.java:2505)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:227)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:91)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:94)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:78)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:397)
+	at org.postgresql.Driver.connect(Driver.java:305)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:83)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:243)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:98)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:136)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:262)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.access$100(Driver.java:63)
+	at org.postgresql.Driver$ConnectThread.run(Driver.java:355)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2024-09-16 16:44:19.585 - Connect with 'postgres' (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-16 16:44:19.586 - Execution context opened (postgres; Main <postgres>; 2)
+2024-09-16 16:44:19.586 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2024-09-16 16:44:19.590 - Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:265)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:554)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:106)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:102)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:233)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:120)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:274)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:169)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:94)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:104)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:115)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1381)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1245)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:1035)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:78)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:109)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:87)
+	at org.jkiss.dbeaver.model.DBUtils.initDataSource(DBUtils.java:2505)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:227)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:91)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:94)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:78)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:397)
+	at org.postgresql.Driver.connect(Driver.java:305)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:83)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:243)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:98)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:136)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:262)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.access$100(Driver.java:63)
+	at org.postgresql.Driver$ConnectThread.run(Driver.java:355)
+	at java.base/java.lang.Thread.run(Unknown Source)
+> Start Data Transfer UI [org.jkiss.dbeaver.data.transfer.ui 1.0.116.202406021658]
+2024-09-16 16:44:24.668 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.116.202406021658]
+2024-09-16 16:44:46.716 - Connect with 'postgres' (postgres-jdbc-191fc5c9b01-6e2b808d841742be)
+2024-09-16 16:44:46.717 - Execution context opened (postgres; Main <postgres>; 3)
+2024-09-16 16:44:46.717 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2024-09-16 16:44:46.729 - Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.jkiss.dbeaver.model.exec.DBCConnectException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:265)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.openConnection(PostgreDataSource.java:554)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:106)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:102)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.checkInstanceConnection(PostgreDatabase.java:233)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDatabase.<init>(PostgreDatabase.java:120)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.createDatabaseImpl(PostgreDataSource.java:274)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.initializeRemoteInstance(PostgreDataSource.java:169)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.<init>(JDBCDataSource.java:94)
+	at org.jkiss.dbeaver.ext.postgresql.model.PostgreDataSource.<init>(PostgreDataSource.java:104)
+	at org.jkiss.dbeaver.ext.postgresql.PostgreDataSourceProvider.openDataSource(PostgreDataSourceProvider.java:115)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1381)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1245)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:1035)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:78)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:109)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:113)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:87)
+	at org.jkiss.dbeaver.model.DBUtils.initDataSource(DBUtils.java:2505)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:158)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:227)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:91)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:94)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:78)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:117)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.postgresql.util.PSQLException: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.Driver$ConnectThread.getResult(Driver.java:397)
+	at org.postgresql.Driver.connect(Driver.java:305)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:109)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCConnectionOpener.run(JDBCConnectionOpener.java:83)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.openConnection(JDBCDataSource.java:221)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.base/java.net.Socket.connect(Unknown Source)
+	at org.postgresql.core.PGStream.createSocket(PGStream.java:243)
+	at org.postgresql.core.PGStream.<init>(PGStream.java:98)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:136)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:262)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:54)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:273)
+	at org.postgresql.Driver.makeConnection(Driver.java:446)
+	at org.postgresql.Driver.access$100(Driver.java:63)
+	at org.postgresql.Driver$ConnectThread.run(Driver.java:355)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2024-09-16 16:44:51.877 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-09-16 16:45:38.429 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2024-09-16 16:46:35.721 - DBeaver is stopping
+2024-09-16 16:46:35.730 - Stop instance server
+2024-09-16 16:46:36.755 - Instance server has been stopped
+2024-09-16 16:46:36.755 - DBeaver shutdown completed

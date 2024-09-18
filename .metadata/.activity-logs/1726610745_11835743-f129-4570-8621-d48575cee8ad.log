@@ -1,0 +1,49 @@
+11248:APP_OPEN:startTime=1726610734121
+13820:GENERAL_SHOW_PERSPECTIVE:perspective=org.jkiss.dbeaver.core.perspective
+13821:GENERAL_VIEW_OPEN:view=org.jkiss.dbeaver.core.databaseNavigator
+13821:GENERAL_VIEW_OPEN:view=org.jkiss.dbeaver.core.projectExplorer
+13825:GENERAL_SHOW_PERSPECTIVE:perspective=org.jkiss.dbeaver.core.perspective
+13826:GENERAL_VIEW_OPEN:view=org.jkiss.dbeaver.core.databaseNavigator
+13826:GENERAL_VIEW_OPEN:view=org.jkiss.dbeaver.core.projectExplorer
+99593:Open connection:driver=postgresql:postgres-jdbc
+106254:Edit connection:driver=postgresql:postgres-jdbc
+132379:Close connection:driver=postgresql:postgres-jdbc
+132407:Open connection:driver=postgresql:postgres-jdbc
+221585:Edit connection:driver=postgresql:postgres-jdbc
+234622:Close connection:driver=postgresql:postgres-jdbc
+234645:Open connection:driver=postgresql:postgres-jdbc
+269889:Edit connection:driver=postgresql:postgres-jdbc
+287330:Close connection:driver=postgresql:postgres-jdbc
+287352:Open connection:driver=postgresql:postgres-jdbc
+364300:Close connection:driver=postgresql:postgres-jdbc
+364300:Delete connection:driver=postgresql:postgres-jdbc
+419653:Create connection:driver=postgresql:postgres-jdbc
+422617:Open connection:driver=postgresql:postgres-jdbc
+630563:Close connection:driver=postgresql:postgres-jdbc
+630564:Delete connection:driver=postgresql:postgres-jdbc
+1661428:Create connection:driver=postgresql:postgres-jdbc
+1665756:Open connection:driver=postgresql:postgres-jdbc
+2500425:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableColumn
+3227235:Close connection:driver=postgresql:postgres-jdbc
+3230046:Open connection:driver=postgresql:postgres-jdbc
+3246600:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+3258141:DATA_EDIT_OPEN:objectType=PostgreTableRegular
+3517183:RESULT_SET_REFRESH
+3518443:RESULT_SET_REFRESH
+3560591:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+3560720:DATA_EDIT_OPEN:objectType=PostgreTableRegular
+3575908:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+6342686:RESULT_SET_REFRESH
+6363686:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+6374426:DATA_EDIT_OPEN:objectType=PostgreTableRegular
+72878458:Open connection:driver=postgresql:postgres-jdbc
+72880426:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+72880722:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+72880885:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+72881096:DATA_EDIT_OPEN:objectType=PostgreTableRegular
+72881223:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+72881392:DATA_EDIT_OPEN:objectType=PostgreTableRegular
+73246929:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+73247024:DATA_EDIT_OPEN:objectType=PostgreTableRegular
+74035203:ENTITY_EDITOR_OPEN:driver=postgresql:postgres-jdbc&className=PostgreTableRegular
+74035414:DATA_EDIT_OPEN:objectType=PostgreTableRegular
